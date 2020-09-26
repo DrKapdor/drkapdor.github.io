@@ -12,21 +12,21 @@ body {
 }
 
 ::selection {
-background: lime; /* Safari */
+       background: lime; /* Safari */
 }
 ::-moz-selection {
-background: lime; /* Firefox */
+       background: lime; /* Firefox */
 }
 
 #title {
 	font-size: 90px;
 	color: white;
-    width: 50%;
-    height: 50%;
-    overflow: auto;
-    margin: auto;
-    position: absolute;
-    top: 75px; 
+	width: 50%;
+        height: 50%;
+        overflow: auto;
+        margin: auto;
+        position: absolute;
+        top: 100px; 
 	left: 0; 
 	bottom: 0; 
 	right: 0;
@@ -35,41 +35,41 @@ background: lime; /* Firefox */
 #subtitle {
 	font-size: 28px;
 	color: white;
-    width: 50%;
-    height: 50%;
-    overflow: auto;
-    margin: auto;
-    position: absolute;
-    top: 325px; 
+        width: 50%;
+        height: 50%;
+        overflow: auto;
+        margin: auto;
+        position: absolute;
+        top: 350px; 
 	left: 0; 
 	bottom: 0; 
 	right: 0;
 }
 
 #links {
-	font-size: 46px;
-	color: white;
-    width: 50%;
-    height: 50%;
-    overflow: auto;
-    margin: auto;
-    position: absolute;
-    top: 425px; 
-	left: 0; 
-	bottom: 0; 
-	right: 0;
-	letter-spacing: 15px;
-    -ms-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
+       font-size: 46px;
+       color: white;
+       width: 50%;
+       height: 50%;
+       overflow: auto;
+       margin: auto;
+       position: absolute;
+       top: 450px; 
+       left: 0; 
+       bottom: 0; 
+       right: 0;
+       letter-spacing: 15px;
+       -ms-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -webkit-user-select: none;
 }
 
 #particles {
-	width: 100%;
-	height: 100%;
-	background-color: black;
-	position: relative;
+         width: 100%;
+         height: 100%;
+         background-color: black;
+         position: relative;
 }
 
 .hoverable {
