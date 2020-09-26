@@ -8,18 +8,18 @@ html {
 }
 
 body {
-	font-family: font;
-        -ms-user-select: none;
-        -moz-user-select: none;
-        -khtml-user-select: none;
-        -webkit-user-select: none;
+       font-family: font;
+       -ms-user-select: none;
+       -moz-user-select: none;
+       -khtml-user-select: none;
+       -webkit-user-select: none;
 }
 
 ::selection {
-       background: lime; /* Safari */
+       background: lime;
 }
 ::-moz-selection {
-       background: lime; /* Firefox */
+       background: lime;
 }
 
 #title {
