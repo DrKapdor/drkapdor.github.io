@@ -26,7 +26,7 @@ body {
         overflow: auto;
         margin: auto;
         position: absolute;
-        top: 150px; 
+        top: 125px; 
 	left: 0; 
 	bottom: 0; 
 	right: 0;
@@ -40,7 +40,7 @@ body {
         overflow: auto;
         margin: auto;
         position: absolute;
-        top: 400px; 
+        top: 375px; 
 	left: 0; 
 	bottom: 0; 
 	right: 0;
@@ -54,7 +54,7 @@ body {
        overflow: auto;
        margin: auto;
        position: absolute;
-       top: 500px; 
+       top: 475px; 
        left: 0; 
        bottom: 0; 
        right: 0;
