@@ -9,6 +9,10 @@ html {
 
 body {
 	font-family: font;
+        -ms-user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
 }
 
 ::selection {
@@ -59,10 +63,6 @@ body {
        bottom: 0; 
        right: 0;
        letter-spacing: 15px;
-       -ms-user-select: none;
-      -moz-user-select: none;
-      -khtml-user-select: none;
-      -webkit-user-select: none;
 }
 
 #particles {
