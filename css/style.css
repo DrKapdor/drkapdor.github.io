@@ -80,5 +80,4 @@ body {
 
 .hoverable:hover {
       color: lime;
-      transform: scale(0.1);
 }
