@@ -85,18 +85,18 @@ particlesJS('particles',
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": true,
+          "enable": false,
           "mode": "grab"
         },
         "onclick": {
-          "enable": true,
+          "enable": false,
           "mode": "repulse"
         },
         "resize": true
       },
       "modes": {
         "grab": {
-          "distance": 200,
+          "distance": 250,
           "line_linked": {
             "opacity": 1
           }
