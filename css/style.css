@@ -8,19 +8,19 @@ html {
 }
 
 body {
-       font-family: font;
-       -ms-user-select: none;
-       -moz-user-select: none;
-       -khtml-user-select: none;
-       -webkit-user-select: none;
-	background-color: black;
+	font-family: font;
+	-ms-user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+	 background-color: black;
 }
 
 ::selection {
-       background: lime;
+ 	background: lime;
 }
 ::-moz-selection {
-       background: lime;
+	background: lime;
 }
 
 #title {
@@ -67,17 +67,17 @@ body {
 }
 
 #particles {
-    position: absolute;
-    display: block;
-    top: 0;
-    left: 0;
-    z-index: -1;
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+	z-index: -1;
 }
 
 .hoverable {
-      color: white;
-      text-decoration: none;
-      transition: 0.3s;
+       color: white;
+       text-decoration: none;
+       transition: 0.3s;
 }
 
 .hoverable:hover {
